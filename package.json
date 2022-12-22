@@ -1,7 +1,7 @@
 {
-  "name": "numtrafr",
+  "name": "numtra",
   "version": "1.0.5",
-  "description": "J'ai eu l'idee de cette librairie lors du developpement de mon application , un utiliateur  si je pouvais traduire le montant de la facture en toute lettre comme tout le monde j'ai fais une recherche sur google je n'ais pas trouver de libraire javascript adapter à mon besoin de ce fait j'ai developper le notre  puis le rendre open source pour que d'autres personnes puis l'utiliser",
+  "description": "Translate number to fr in full javascript accept bilions",
   "main": "src/index.ts",
   "author": "aboucodeur",
   "type": "module",
