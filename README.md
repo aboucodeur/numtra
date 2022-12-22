@@ -5,4 +5,4 @@
 Open source et accessible a tous j'ai le probleme lors du developpement de mon projet d'application de gestion de stock qui devait avoir la traduction du montant de la facture en tout lettres
 
 ## Installation
-`npm install numtra`
+`npm install @abouta/numtra`

@@ -1,9 +1,9 @@
 {
-  "name": "numtra",
+  "name": "@aboutat/numtra",
   "version": "1.0.5",
   "description": "Translate number to fr in full javascript accept bilions",
   "main": "src/index.ts",
-  "author": "aboucodeur",
+  "author": "aboucodeur codeurabou123@gmail.com",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,6 @@
     "compile": "rm -rf ./dist/lib/es5 && tsc && tsc --build tsconfig.es5.json"
   },
   "repository": "https://github.com/aboucodeur/numtra.git",
-  "author": "aboucodeur codeurabou123@gmail.com",
   "license": "MIT",
   "keywords": [
     "numtra",
