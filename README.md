@@ -6,3 +6,18 @@ Open source et accessible a tous j'ai le probleme lors du developpement de mon p
 
 ## Installation
 `npm install @abouta/numtra`
+
+## Utilisation 
+- COMMONJS like node js
+```js
+    const { formatWord } = require("@abouta/numtra")
+    const translate = formatWord(123)
+    console.log(translate) // output : Cents vingt trois
+```
+- ES6 like Browser
+
+```js
+    import { formatWord } from "@abouta/numtra"
+    const translate = formatWord(123)
+    console.log(translate) // output : Cents vingt trois
+```

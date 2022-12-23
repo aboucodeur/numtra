@@ -3,7 +3,7 @@
     "module": "CommonJS",
     "target": "ES5",
     "declaration": true,
-    "outDir": "dist/lib/es5 ",
+    "outDir": "dist/lib/es5",
     "moduleResolution": "Node",
     "lib": [
       "ES2020",

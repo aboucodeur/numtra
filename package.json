@@ -8,7 +8,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node ./src/index.ts",
-    "compile": "rm -rf ./dist/lib/es5 && tsc && tsc --build tsconfig.es5.json"
+    "compile": "rm -rf ./dist/lib && tsc && tsc --build tsconfig.es5.json"
   },
   "repository": "https://github.com/aboucodeur/numtra.git",
   "license": "MIT",
